@@ -46,3 +46,16 @@ nav ul a.contacts:hover{
     font-size:6.4rem ;
 }
 /* HERO DESIGN END */
+/*BEst selling strat*/
+.btn a{
+    text-decoration: none;
+    color: black;
+    background-color: #C1DCDC;
+}
+.col-lg-3 p:last-child{
+    color:silver
+}
+.col-lg-4 p{
+    color:silver ;
+}
+/*Best selling End*/
