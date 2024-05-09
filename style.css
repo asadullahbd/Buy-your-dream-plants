@@ -40,11 +40,72 @@ nav ul a.contacts:hover{
 /* HERO DESIGN START  */
 .hero{
     background: #C1DCDC;
+    height: 52rem;
 }
 
 .hero h1{
     font-size:6.4rem ;
 }
+
+.plant-number{
+    font-size: 1.8rem;
+    font-weight: 500;
+    line-height: 2.7rem;
+}
+
+.plant-number span{
+    font-size: 3.2rem;
+    line-height: 4.8rem;
+}
+
+.plant-number .vertical-line{
+    height: 6rem;
+    width: .2rem;
+    background:#1E1E1E;
+}
+
+.input-container{
+    position: relative;
+}
+
+.input-container .bi-search{
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #C1DCDC;
+    padding: 1rem 1.4rem;
+    border-radius: 20%;
+    display: inline-block;
+}
+
+
+.hero input::placeholder{
+    color: rgba(30, 30, 30,.5);
+    font-size: 1.8rem;
+    font-weight: 500;
+    line-height: 2.7rem;
+}
+
+.custom-right{
+    position:absolute;
+    right: 7.2rem;
+    bottom: 0;
+}
+
+.left-arrow{
+    position: absolute;
+    right: 50rem;
+    bottom: 5rem;
+    width: 16rem;
+}
+
+.right-arrow{
+    position: absolute;
+    right: 2rem;
+    top: 2rem;
+}
+
 /* HERO DESIGN END */
 /*BEst selling strat*/
 .btn a{
