@@ -88,12 +88,14 @@ nav ul a.contacts:hover{
     line-height: 2.7rem;
 }
 
+
 .custom-right{
     position:absolute;
     right: 0rem;
     bottom: 0;
     width: 64rem;
 }
+
 /* HERO DESIGN END */
 /*BEst selling strat*/
 .btn a{
